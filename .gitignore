@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vs/
+assets/
+Debug/
+contrib/
